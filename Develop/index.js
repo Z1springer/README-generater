@@ -1,7 +1,7 @@
 // Include packages needed for this application
 const fs = require('fs');
 const inquirer = require('inquirer');
-import generateREADME from './READme-generator'
+const generator = require('./READme-generator')
 // Create an array of questions for user input
 inquirer
     .prompt([

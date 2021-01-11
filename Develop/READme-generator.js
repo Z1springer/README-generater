@@ -19,4 +19,4 @@ function generateREADME({ primus, secundus, tertius, quartus, quintus, sextus })
     `
 }
 
-export default generateREADME()
+module.export = generateREADME()
