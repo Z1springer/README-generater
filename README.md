@@ -1,5 +1,9 @@
 # README-generater
 
+## Description
+
+This application is simply designed to generate a basic readme. Prompting you with inputs that get all of your info as needed, such as its name, description, technologies, user story, license, and links to the repo. Once it has all of your info it then prints it to a newly created ReadMe file for your use. 
+
 ## User Story
 
 ```md
@@ -35,4 +39,7 @@ node index.js
 
 ## Screenshot/Video
 - Vid: *(https://drive.google.com/file/d/1TOX5flWJFFXpdzbvzipZvnaMnzLdK9lZ/view)*
-- Pic: 
+- Pic: ![image](https://user-images.githubusercontent.com/74688904/104753367-b8684f80-570c-11eb-9e23-d72e6b232f15.png)
+
+### Link to Repo
+- *(https://github.com/Z1springer/README-generater)*
